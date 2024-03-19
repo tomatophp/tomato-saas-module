@@ -1,0 +1,29 @@
+{
+    "name": "TomatoSaaS",
+    "alias": "tomato-saas",
+    "description": {
+        "ar": "بناء وإدارة تطبيقات SaaS بواجهة مستخدم رسومية سهلة.",
+        "en": "Build and manage SaaS apps with easy GUI",
+        "gr": "Build and manage SaaS apps with easy GUI",
+        "sp": "Build and manage SaaS apps with easy GUI"
+    },
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TomatoSaaS\\App\\Providers\\TomatoSaaSServiceProvider"
+    ],
+    "files": [],
+    "title": {
+        "ar": "Tomato SaaS",
+        "en": "Tomato SaaS",
+        "gr": "Tomato SaaS",
+        "sp": "Tomato SaaS"
+    },
+    "color": "#222F3D",
+    "icon": "bx bxs-star",
+    "placeholder": "placeholder.webp",
+    "type": "plugin",
+    "version": "v1.0",
+    "github" : "https://github.com/tomatophp/tomato-saas-module",
+    "docs" : "https://docs.tomatophp.com/plugins/tomato-saas"
+}
